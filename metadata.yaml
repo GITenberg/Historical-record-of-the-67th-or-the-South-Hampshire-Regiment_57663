@@ -1,0 +1,22 @@
+_repo: Historical-record-of-the-67th-or-the-South-Hampshire-Regiment_57663
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+description: ''
+gutenberg_issued: '2018-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Historical record of the 67th, or the South Hampshire Regiment
+url: http://www.gutenberg.org/ebooks/57663
